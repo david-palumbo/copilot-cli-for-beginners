@@ -620,7 +620,7 @@ copilot
 # Summarizes history, keeping bug list and decisions prominent
 ```
 
-> 💡 **When to use focus instructions**: If your conversation covered many topics, focus instructions help `/compact` retain the parts most relevant to your next steps — so you don't lose the thread.
+> 💡 **When to use focus instructions**: If your conversation covered many topics, focus instructions help `/compact` retain the parts most relevant to your next steps so you don't lose the thread.
 
 #### Context Efficiency Tips
 
